@@ -1,0 +1,38 @@
+feature,mean_abs_shap
+LTV,0.18589874
+PERFORM_CNS_SCORE,0.111648925
+CURRENT_PINCODE_ID,0.10813008
+age_at_disbursal,0.08800191
+STATE_ID,0.07912917
+EMPLOYMENT_TYPE_Self employed,0.074631624
+MANUFACTURER_ID,0.069462135
+DISBURSED_AMOUNT,0.06490913
+sanction_minus_disbursal,0.06227956
+loan_to_asset_ratio,0.05606957
+total_bureau_enquiries,0.05373053
+disbursal_gap_ratio,0.050562687
+BRANCH_ID,0.05034531
+total_overdue_accounts,0.050282467
+SUPPLIER_ID,0.04443065
+EMPLOYEE_CODE_ID,0.04226975
+closed_accounts,0.039537594
+bureau_score_numeric,0.039064016
+ASSET_COST,0.026503265
+VOTERID_FLAG,0.019757258
+EMPLOYMENT_TYPE_Salaried,0.017962009
+active_to_total_bureau_ratio,0.01434332
+bureau_score_band_Low,0.012266094
+AADHAR_FLAG,0.012194189
+PAN_FLAG,0.009993064
+bureau_score_band_Medium,0.007579226
+ltv_band_Medium,0.0065957312
+bureau_score_band_High,0.0036842371
+ltv_band_Low,0.0018885469
+DRIVING_FLAG,0.0014860927
+ltv_band_Very Low,0.00061075325
+PASSPORT_FLAG,0.0005086829
+bureau_score_band_No Bureau History,0.00014739613
+ltv_band_High,7.2590665e-05
+MOBILENO_AVL_FLAG,0.0
+bureau_score_missing,0.0
+ltv_band_Very High,0.0
