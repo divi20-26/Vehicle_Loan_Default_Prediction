@@ -1,0 +1,6 @@
+decision,samples,percentage,mean_cost,policy
+manual_review,21637,61.865957568479445,0.9300337393492308,probability_only
+auto_process,13336,38.13118316463659,0.9300337393492308,probability_only
+escalate_for_review,1,0.00285926688397095,0.9300337393492308,probability_only
+manual_review,21665,61.946017041230625,0.9305484073883457,uncertainty_aware
+auto_process,13309,38.053982958769375,0.9305484073883457,uncertainty_aware

@@ -1,0 +1,7 @@
+policy,decision,samples,percentage,defaults_in_tier,default_rate_in_tier,share_of_all_defaults
+probability_only,auto_process,13336,38.13118316463659,2178,0.16331733653269345,23.584190579317813
+probability_only,manual_review,21637,61.865957568479445,7056,0.32610805564542217,76.40498105035192
+probability_only,escalate_for_review,1,0.00285926688397095,1,1.0,0.010828370330265295
+uncertainty_aware,auto_process,13309,38.053982958769375,2176,0.16349838455180704,23.56253383865728
+uncertainty_aware,manual_review,21665,61.946017041230625,7059,0.3258250634664205,76.43746616134271
+uncertainty_aware,escalate_for_review,0,0.0,0,0.0,0.0
